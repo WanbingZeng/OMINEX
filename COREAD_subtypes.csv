@@ -1,4 +1,4 @@
-,dataset,age,gender,stage,pt,pn,pm,tnm,grade,msi,cimp,kras_mut,braf_mut,Subtypes,osMo,osStat,rfsMo,rfsStat
+,dataset,age,gender,stage,pt,pn,pm,tnm,grade,msi,cimp,kras_mut,braf_mut,subtypes,osMo,osStat,rfsMo,rfsStat
 TCGA-A6-2672,tcga,82,female,3,3,1,0,IIIB,NA,msi,CIMP.High,0,0,CMS1,16.5369863,0,NA,NA
 TCGA-A6-3809,tcga,71,female,2,4,0,0,IIB/IIC,NA,msi,CIMP.High,NA,NA,CMS1,10.29041096,0,NA,NA
 TCGA-A6-5661,tcga,80,female,2,3,0,0,IIA,NA,msi,CIMP.High,0,1,CMS1,10.06027397,0,NA,NA
