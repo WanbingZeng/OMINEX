@@ -18,9 +18,10 @@ OMINEX is a project designed for new learners to learn how to integrate and anal
 
 ## Features
 
-- **Multi-omics Data Integration**: Seamlessly integrate data from genomics, transcriptomics, proteomics, and other omics layers.
-- **Interactive Visualizations**: Generate and interact with PCA plots, volcano plots, heatmaps, and dendrograms.
-- **Statistical Analysis**: Perform differential expression analysis, correlation analysis, and other statistical tests.
+- **Multi-omics Data Integration**: integrate data from genomics, transcriptomics, proteomics, and other omics layers.
+- **Dimension reduction**: Reduce the dimentions using NMF and MOFA
+- **Interactive Visualizations**: Generate and interact with principle components, volcano plots, heatmaps, and dendrograms.
+- **Statistical Analysis**: z-score statistical tests and NMF implementaion
 - **User-friendly Interface**: Easy-to-use interface with step-by-step instructions and comprehensive documentation.
 
 ## Installation
