@@ -1,6 +1,14 @@
-# OMINEX
-Multi-omics integration practical exercise for new learners. 
-Please fill out the [questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after completing the exercises. Thank you!💙
+# OMINEX 
+Omics INtegration EXercise developed for new learners to learn
+
+Please fill out the [Questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after completing the exercises. Thank you!💙
+
+
+If you you have not download Python and JupyterNotebook, please see [Download](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_1%20How%20to%20download%20the%20Jupyter%20Notebook.pdf) and [Prepare For JupyterNotebook](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_3%20How%20to%20use%20the%20Jupyter%20Notebook.pdf)
+
+If you are not sure how to use the tutorial, check out [How to use the tutorial notebooks](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_2%20How%20to%20open%20the%20tutorial%20notebook.pdf)
+
+Any other problems, opinions or recommendations:[Others](https://forms.gle/uCfHM3xHkMbg7Vnv7)
 
 ## Table of Contents
 
@@ -10,8 +18,8 @@ Please fill out the [questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after c
 - [Usage](#usage)
 - [Data Preparation](#data-preparation)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing) 
+- [License](#license) 
 
 ## Introduction
 
@@ -26,10 +34,10 @@ OMINEX is a project designed for new learners to learn how to integrate and anal
 ## Features
 
 - **Multi-omics Data Integration**: integrate data from genomics, transcriptomics, proteomics, and other omics layers.
-- **Dimension reduction**: Reduce the dimentions using NMF and MOFA
-- **Interactive Visualizations**: Generate and interact with principle components, volcano plots, heatmaps, and dendrograms.
-- **Statistical Analysis**: z-score statistical tests and NMF implementaion
-- **User-friendly Interface**: Easy-to-use interface with step-by-step instructions and comprehensive documentation.
+- **Dimension Reduction**: Reduce the dimentions using NMF and MOFA
+- **Interactive Features**: Generate and interact with principle components, volcano plots, heatmaps, and dendrograms.
+- **Statistical Analysis**: NMF implementaion, z-score statistical tests
+- **User-friendly Interface**: Easy-to-use interface with step-by-step instructions and comprehensive tutorials.
 
 ## Installation
 
