@@ -1,5 +1,5 @@
 # OMINEX
-Omics Integration and Exploration Interactive Exercise
+Multi-omics integration practical exercise for new learners
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Omics Integration and Exploration Interactive Exercise
 
 ## Introduction
 
-OMINEX is an interactive platform designed for the integration and exploration of multi-omics data. It provides tools and visualizations to help researchers and students analyze and interpret complex biological data, making multi-omics analysis accessible and intuitive.
+OMINEX is a project designed for new learners to learn how to integrate and analyse multi-omics datasets. The project will provide a step-by-step tutorial for learners to navigate. **Python** is the main programming language used in this project. With the JupyterNotebook, users can practice to improve their programming skills and understand how to integrate and analyse multi-omics datasets for cancer subtyping and biomarker identification.
 
 ## Features
 
