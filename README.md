@@ -29,12 +29,12 @@ OMINEX is a project designed for new learners to learn how to integrate and anal
 
 [Chapter 2 Integration with NMF](https://github.com/WanbingZeng/OMINEX/blob/main/Chapter%202%20Integration%20with%20NMF.ipynb) demonstrates how to use NMF🦅 for dimensionality reduction, including a detailed explanation of NMF, the detailed usage of the NMF function from the sklearn package, and the implementation of NMF assumptions.
 
-[Chapter 3 MOFA](£MOFA) which is developing😺 😸 😹 😻 😼 😽 🙀 😿 😾
+[Chapter 3 MOFA+](£MOFA+) which is developing😺 😸 😹 😻 😼 😽 🙀 😿 😾
 
 ## Features
 
 - **Multi-omics Data Integration**: integrate data from genomics, transcriptomics, proteomics, and other omics layers.
-- **Dimension Reduction**: Reduce the dimentions using NMF and MOFA
+- **Dimension Reduction**: Reduce the dimentions using NMF and MOFA+
 - **Interactive Features**: Generate and interact with principle components, volcano plots, heatmaps, and dendrograms.
 - **Statistical Analysis**: NMF implementaion, z-score statistical tests
 - **User-friendly Interface**: Easy-to-use interface with step-by-step instructions and comprehensive tutorials.
