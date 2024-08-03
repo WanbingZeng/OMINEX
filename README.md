@@ -1,5 +1,5 @@
 # OMINEX 
-Omics INtegration EXercise developed for new learners to learn
+OMics INtegration EXercise developed for new learners to learn
 
 Please fill out the [Questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after completing the exercises. Thank you!💙
 
