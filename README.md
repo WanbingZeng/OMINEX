@@ -1,6 +1,8 @@
 # OMINEX 
 OMics INtegration EXercise developed for new learners to learn
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanbingZeng/OMINEX/HEAD?labpath=Chapeter+1+Data+Loading+and+Preprocessing.ipynb)
+
 Please fill out the [Questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after completing the exercises. Thank you!💙
 
 
