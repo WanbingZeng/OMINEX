@@ -37,7 +37,7 @@ OMINEX is a project designed for new learners to learn how to integrate and anal
 
 ## Features
 
-- **Multi-omics Data Integration**: integrate data from genomics, transcriptomics, proteomics, and other omics layers.
+- **Multi-omics Data Integration**: integrate data from genomics, transcriptomics
 - **Dimension Reduction**: Reduce the dimentions using NMF and MOFA+
 - **Interactive Features**: Generate and interact with principle components, volcano plots, heatmaps, and dendrograms.
 - **Statistical Analysis**: NMF implementaion, z-score statistical tests
