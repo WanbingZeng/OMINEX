@@ -13,6 +13,8 @@ If you don't want to download Python or JupyterNotebook, you can also use:
 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanbingZeng/OMINEX/HEAD?labpath=Chapter+2+Integration+with+NMF.ipynb)  Chapter 2 Integration with NMF.ipynb
 
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanbingZeng/OMINEX/HEAD?labpath=Chapter3+MOFA%2B.ipynb)  Chapter3 MOFA+.ipynb
+
 If you are not sure how to use the tutorial, check out [How to use the tutorial notebooks](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_2%20How%20to%20open%20the%20tutorial%20notebook.pdf)
 
 Any other problems, opinions or recommendations:[Others](https://forms.gle/uCfHM3xHkMbg7Vnv7)
@@ -31,7 +33,7 @@ OMINEX is a project designed for new learners to learn how to integrate and anal
 
 [Chapter 2 Integration with NMF](https://github.com/WanbingZeng/OMINEX/blob/main/Chapter%202%20Integration%20with%20NMF.ipynb) demonstrates how to use NMF🦅 for dimensionality reduction, including a detailed explanation of NMF, the detailed usage of the NMF function from the sklearn package, and the implementation of NMF assumptions.
 
-[Chapter 3 MOFA+](£MOFA+) which is developing😺 😸 😹 😻 😼 😽 🙀 😿 😾
+[Chapter 3 MOFA+](https://github.com/WanbingZeng/OMINEX/blob/main/Chapter3%20MOFA%2B.ipynb) provides an example of MOFA+😾 implementation on colorectal cancer and 2 exercises for practice.
 
 ## Features
 
