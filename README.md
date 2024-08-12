@@ -5,9 +5,9 @@ Please fill out the [Questionnaire](https://forms.gle/d7zyjiC8pYtwRt3r6) after c
 ## 
 
 
-If you you have not download Python and JupyterNotebook, please see [Download](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_1%20How%20to%20download%20the%20Jupyter%20Notebook.pdf) and [Prepare For JupyterNotebook](https://github.com/WanbingZeng/OMINEX/blob/main/Prepare_for_JupyterNotebook/Pre_3%20How%20to%20use%20the%20Jupyter%20Notebook.pdf)
+If you you have not download Python and JupyterNotebook, please see [Jupyter_Notebook_Preparation](https://github.com/WanbingZeng/OMINEX/blob/main/Jupyter_Notebook_Preparation.pdf)
   
-If you don't want to download Python or JupyterNotebook, you can also use:
+You can also use Binder for practice:
 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanbingZeng/OMINEX/HEAD?labpath=Chapeter+1+Data+Loading+and+Preprocessing.ipynb)   Chapeter 1 Data Loading and Preprocessing.ipynb
 
